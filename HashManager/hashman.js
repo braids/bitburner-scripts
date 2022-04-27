@@ -1,4 +1,6 @@
+// box.sidebar from https://github.com/Snarling/bitburner-scripts/tree/main/box
 import { createSidebarItem, sidebar } from "/box/box.js"
+// numFormat from https://github.com/tyrope/bitburner/blob/master/lib/format.js
 import { numFormat } from "/format.js"
 
 /** @param {NS} ns **/
